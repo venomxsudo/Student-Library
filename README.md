@@ -7,7 +7,7 @@
 <br/>
 <br/>
 <a target="_blank">
-<img align="center" height="150rem" alt="GIF" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/200w.webp?cid=ecf05e47yrznhyd4w1cnwbe3hlilpmls3c0mrsymhdzmzp5z&rid=200w.webp" /></a>
+<img align="right"  height="150rem" alt="GIF" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/200w.webp?cid=ecf05e47yrznhyd4w1cnwbe3hlilpmls3c0mrsymhdzmzp5z&rid=200w.webp" /></a>
 <pre><b><h1>What Is User Credential?</h1></b>
 - Defualt UserName Is G26
 - Defualt Password Is G26
