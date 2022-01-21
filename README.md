@@ -7,7 +7,7 @@
 <br/>
 <br/>
 <a target="_blank">
-<img align="right" height="150rem" alt="GIF" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/200w.webp?cid=ecf05e47yrznhyd4w1cnwbe3hlilpmls3c0mrsymhdzmzp5z&rid=200w.webp" /></a>
+<img align="right" height="250rem" alt="GIF" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/200w.webp?cid=ecf05e47yrznhyd4w1cnwbe3hlilpmls3c0mrsymhdzmzp5z&rid=200w.webp" /></a>
 <pre><b><h1>What Is User Credential?</h1></b>
 - Defualt UserName Is G26
 - Defualt Password Is G26
@@ -23,7 +23,7 @@
 <br/>
 <br/>
 
-<a target="_blank"><img align="left" height="500" width="500" alt="𝙶𝙸𝙵" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
+<a target="_blank"><img align="left" height="300" width="300" alt="𝙶𝙸𝙵" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
 <br/>
 <pre style="font-size: 35px; text-align: center;"><big><b>
 💬 Programming Languages: 
