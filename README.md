@@ -30,61 +30,16 @@ C                        ██████████████████�
 Other                    ░░░░░░░░░░░░░░░░░░░░░░░░░   0%   
 
 🔥 Developers: 
-<a href="https://www.harshmavani.com" target="__blank">Harsh Mavani</a>             ████████████████████░░░░░   80% 
+<a href="https://www.harshmavani.com" target="__blank"><big><b>Harsh Mavani</a>             ████████████████████░░░░░   80% 
 Jeel Patel               ████░░░░░░░░░░░░░░░░░░░░░   19% 
 Heer Sharma              █░░░░░░░░░░░░░░░░░░░░░░░░   1%  
 
 💻 Supported Operating System: 
 Linux                    █████████████████████████   100% 
-Windows                  ███████████████░░░░░░░░░░   70%  
+Windows                  ███████████████░░░░░░░░░░   70%  </big></b>
 </pre>
 
 
-<h1>
-  Connect With Me
-  <a target="_blank">
-    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Handshake.gif" height="25px" style="max-width:100%;">
-  </a>
-</h1>
 
-<p align="center">
-  <br>
-  <a href="https://www.linkedin.com/in/JayantGoel001/" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/linkedin.svg"/></code>
-  </a>
-  <a href="https://www.facebook.com/jayant.goel.12/" target="_blank">
-    <code><img  height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/facebook.svg"/></code>
-  </a>
-  <a href="https://www.instagram.com/jayantgoel001/" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/instagram.svg"/></code>
-  </a>
-  <a href="https://twitter.com/JayantGoel001" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/twitter.svg"/></code>
-  </a>
-  <a href="https://dev.to/jayantgoel001">
-    <code><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Jayant Goel's DEV Profile" height="62" width="62"></code>
-  </a>     
-</p>
-<br/>
 
-<p align="center">
-  <a href="https://www.hackerrank.com/JayantGoel001/" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/hr.png"/></code>
-  </a>
-
-  <a href="http://www.codeforces.com/profile/JayantGoel001" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/cf.png"/></code>
-  </a>
-
-  <a href="https://www.hackerearth.com/@jayantgoel001" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/he.svg"/></code>
-  </a>
-
-  <a href="https://www.codechef.com/users/jayantgoel001" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/cc.svg"/></code>
-  </a>
-</p>
-
-<br/>
-<br/>
   
