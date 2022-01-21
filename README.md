@@ -2,7 +2,7 @@
   <a target="_blank">
     <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="24px" style="max-width:100%;">
   </a>
-  𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Caveat+Brush&color=%2398F702&size=35&width=450&lines=Welcome+To+The+Student+Library;We+Make+Student+Library+Using+C+Languages+;We+are+Include+more+and+more+facility+like+;1)+Add+Books;2)+Search+Books;3)+View+Books;4)+Delete+Books;5)+Update+Username+and+Password)](https://git.io/typing-svg)
   <a target="_blank">
     <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="40px" />
   </a>
@@ -91,26 +91,4 @@ Windows                  ███████████████░░░�
 
 <br/>
 <br/>
-
-<p align="center">
-  <a href="https://archiveprogram.github.com/">
-    <img alt="𝙶𝚒𝚝𝚑𝚞𝚋 𝙰𝚛𝚌𝚝𝚒𝚌 𝚅𝚊𝚞𝚕𝚝 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚘𝚛" src = "https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/arctic.gif" width="100px" height="100px">
-  </a>
-</p>
-
-
-<div align="center">
-
-### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
-
-</div>
-
-#
-
-![footer](https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/footer.png)
-
-
------
-**Credits**: [JayantGoel001](https://github.com/JayantGoel001)
-
-**Last Edited on**: 24/06/2021
+  
