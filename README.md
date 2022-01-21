@@ -23,7 +23,7 @@
 
 <a target="_blank"><img align="left" height="300" width="300" alt="𝙶𝙸𝙵" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
 <br/>
-<pre style=text-align: center; "font-size:25px"><big><b>
+<pre style=text-align: center; "font-size:40px"><big><b>
 💬 Programming Languages: 
 C                        █████████████████████████   100% 
 Other                    ░░░░░░░░░░░░░░░░░░░░░░░░░   0%   
