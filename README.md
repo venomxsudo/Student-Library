@@ -23,13 +23,13 @@
 
 <a target="_blank"><img align="left" height="300" width="300" alt="𝙶𝙸𝙵" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
 <br/>
-<pre style=text-align: center; "font-size:40px"><big><b>
+<pre style="font-size: 35px; text-align: center;"><big><b>
 💬 Programming Languages: 
 C                        █████████████████████████   100% 
 Other                    ░░░░░░░░░░░░░░░░░░░░░░░░░   0%   
 
 🔥 Developers Works: 
-<a href="https://www.harshmavani.com" target="__blank">Harsh Mavani</a>             ████████████████████░░░░░   80% 
+<a href="https://www.harshmavani.com" target="__blank">Harsh Mavni</a>             ████████████████████░░░░░   80% 
 Jeel Patel               ███████░░░░░░░░░░░░░░░░░░   30% 
 Heer Sharma              ██░░░░░░░░░░░░░░░░░░░░░░░   10%  
 
