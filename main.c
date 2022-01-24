@@ -16,10 +16,9 @@
 
 typedef struct
 {
-    int yyyy;
     int mm;
     int dd;
-
+    int yyyy;
 } Date;
 
 typedef struct
